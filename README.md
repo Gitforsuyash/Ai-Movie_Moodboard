@@ -2,7 +2,7 @@
 
 An **interactive Streamlit web app** that analyzes the **emotional tone of a movie plot or vibe** using a transformer model and generates a **visual moodboard** that matches the detected emotion.  
 
-![moodboard-preview](https://github.com/Gitforsuyash/Ai-Movie_Moodboard/Ai-moodboard-image.png)  
+  
 
 
 ---
